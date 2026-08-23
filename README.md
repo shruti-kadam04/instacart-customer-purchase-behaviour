@@ -11,7 +11,7 @@ Objectives:
 
 Dataset:
 This project uses the Instacart Market Basket Analysis dataset, available on Kaggle:
-https://www.kaggle.com/c/instacart-market-basket-analysis/data
+(https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 Note: orders.csv and order_products__prior.csv are not included in this repository due to GitHub's file size limit. Please download them from the Kaggle link above and place them in the project directory before running the script.
 
 Technologies Used:
